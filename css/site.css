@@ -1,0 +1,27 @@
+h1  {
+      color: Green;
+      font-size: 200%;
+}
+
+h2  {
+      color: Green;
+}
+
+img {
+  margin-left: 20px;
+}
+
+p {
+    color: purple;
+    font-family: "comic sans";
+    text-indent: 20px;
+    margin-left: 10px;
+}
+
+#callout  {
+  background-color: orange;
+  padding: 20px;
+  margin: 10px;
+  border: solid 1px black;
+  border-radius: 20px
+}
