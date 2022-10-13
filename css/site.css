@@ -1,3 +1,7 @@
+body{
+  background-color: #ff7f50	;
+  }
+
 h1  {
       color: Green;
       font-size: 200%;
@@ -17,6 +21,10 @@ p {
     text-indent: 20px;
     margin-left: 10px;
 }
+
+#my-portrait {
+    width: 500px;
+    }
 
 #callout  {
   background-color: orange;
