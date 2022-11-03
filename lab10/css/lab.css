@@ -29,13 +29,3 @@ p {
   width: 500px;
   background-color: #ff9d5c;
 }
-
-label {
-  color: brown;
-}
-
-div#output {
-  width: 500px;
-  height: 250px;
-  background-color: #ff9c5d;
-}
